@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TimLee
+- 👋 Hi, My name is 小方,haha,不慌不忙
 - 👀 I’m interested in Ebedded software develop 
 - 🌱 I’m currently learning arm,rtos
 - 💞️ I’m looking to collaborate on ...
