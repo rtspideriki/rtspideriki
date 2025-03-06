@@ -1,4 +1,4 @@
-- 👋 Hi, My name is 小方,haha,不慌不忙
+- 👋 Hi, My name is Fang Xu,or you can call me kiki ,it is a good name , i love it ! 
 - 👀 I’m interested in Ebedded software develop 
 - 🌱 I’m currently learning arm,rtos
 - 💞️ I’m looking to collaborate on ...
